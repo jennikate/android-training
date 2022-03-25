@@ -3,4 +3,8 @@
     <string name="d6">d6</string>
     <string name="d20">d20</string>
     <string name="button">dice</string>
+    <string name="roll">roll</string>
+    <string name="todo">TODO</string>
+    <string name="dice1">dice1</string>
+    <string name="dice2">dice2</string>
 </resources>
